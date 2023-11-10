@@ -1,4 +1,7 @@
-### Hi there 👋
+### 끊임없이 성장하며 혁신을 추구하는 신입 개발자 👋
+
+![이력사항](https://github.com/silver159/silver159/assets/125272016/24bff946-a385-434f-8710-4993db9c5d9c)
+
 
 <!--
 **silver159/silver159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
