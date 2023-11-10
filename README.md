@@ -4,9 +4,7 @@
 
 ![자기소개](https://github.com/silver159/silver159/assets/125272016/a6dc69fd-a0c3-4832-9172-ef453111b423)
 
-
-![이력사항](https://github.com/silver159/silver159/assets/125272016/24bff946-a385-434f-8710-4993db9c5d9c)
-
+![이력사항](https://github.com/silver159/silver159/assets/125272016/73ac8d76-5418-4683-8ec9-13e0fe896021)
 
 <!--
 **silver159/silver159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
