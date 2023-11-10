@@ -2,9 +2,9 @@
 
 🌱[수업정리](https://intelligent-mulberry-bed.notion.site/Coding-7bb6ee646d344b2e8fd066fa12feedbf?pvs=4)
 
-![자기소개](https://github.com/silver159/silver159/assets/125272016/a6dc69fd-a0c3-4832-9172-ef453111b423)
+![자기소개](https://github.com/silver159/silver159/assets/125272016/987ccdbb-6f01-4a60-973e-ecdff3744597)
 
-![이력사항](https://github.com/silver159/silver159/assets/125272016/73ac8d76-5418-4683-8ec9-13e0fe896021)
+![이력사항](https://github.com/silver159/silver159/assets/125272016/98215cae-88af-41f3-bfe5-74e0411ba627)
 
 <!--
 **silver159/silver159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
