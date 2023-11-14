@@ -1,6 +1,6 @@
 ### 끊임없이 성장하며 혁신을 추구하는 신입 개발자 👋
 
-🌱[수업정리](https://intelligent-mulberry-bed.notion.site/Coding-7bb6ee646d344b2e8fd066fa12feedbf?pvs=4)
+🌱[공부정리](https://intelligent-mulberry-bed.notion.site/Coding-7bb6ee646d344b2e8fd066fa12feedbf?pvs=4)
 
 ![자기소개](https://github.com/silver159/silver159/assets/125272016/c5315286-3564-48e9-91df-d864b7960c8c)
 
